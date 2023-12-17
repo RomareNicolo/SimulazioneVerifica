@@ -1,0 +1,46 @@
+{
+    "ciao": [
+        {
+            "Nome": "gianni",
+            "Cognome": "morandi",
+            "Eta": "69",
+            "Nazionalita": "italian",
+            "Tatuaggio": "tatuaggio",
+            "Fumatore": "fumatore"
+        },
+        {
+            "Nome": "gigi",
+            "Cognome": "gesu",
+            "Eta": "18",
+            "Nazionalita": "italian",
+            "Tatuaggio": " ",
+            "Fumatore": "fumatore"
+        },
+        {
+            "Nome": "nonno",
+            "Cognome": "nanni",
+            "Eta": "23",
+            "Nazionalita": "italian",
+            "Tatuaggio": "tatuaggio",
+            "Fumatore": "fumatore"
+        }
+    ],
+    "tony": [
+        {
+            "Nome": "io",
+            "Cognome": "tu",
+            "Eta": "23",
+            "Nazionalita": "afghan",
+            "Tatuaggio": "tatuaggio",
+            "Fumatore": "fumatore"
+        },
+        {
+            "Nome": "asd",
+            "Cognome": "asd",
+            "Eta": "12",
+            "Nazionalita": "afghan",
+            "Tatuaggio": "-",
+            "Fumatore": "-"
+        }
+    ]
+}

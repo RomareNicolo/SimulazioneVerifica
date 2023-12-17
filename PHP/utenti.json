@@ -1,0 +1,40 @@
+{
+    "users": [
+        {
+            "username": "admin",
+            "password": "password"
+        },
+        {
+            "username": "user1",
+            "password": "pass123"
+        },
+        {
+            "username": "user2",
+            "password": "letmein"
+        },
+        {
+            "username": "napoli",
+            "password": "capodanno"
+        },
+        {
+            "username": "claudio",
+            "password": "1234"
+        },
+        {
+            "username": "napoli",
+            "password": "capodanno"
+        },
+        {
+            "username": "12",
+            "password": "12"
+        },
+        {
+            "username": "cicci",
+            "password": "1234"
+        },
+        {
+            "username": "nico",
+            "password": "cicci"
+        }
+    ]
+}
